@@ -23,7 +23,7 @@ Interactive Dashboards
 
 ## 📂 Dataset Fields
 
-### Job Information
+### 🧑‍💼 Job Information
 
 Job Title
 
@@ -41,7 +41,7 @@ Min Pay / Max Pay
 
 Pay Rate
 
-### Job Posting Details
+### 📅 Job Posting Details
 
 Job Posting ID
 
@@ -61,7 +61,7 @@ Job Location
 
 ## 🧹 Data Preparation (Power Query)
 
-Column Profiling
+### Column Profiling
 Switched profiling from Top 1000 rows to Entire Dataset
 
 Reviewed:
@@ -80,6 +80,22 @@ Extra spaces
 Split skills by delimiter into new rows
 Removed empty rows
 Standardized naming (ex: powerbi → power_bi)
+
+## 🧮 DAX Calculations
+
+### Measures Table
+
+#### Average of Average Pay
+Average of Average Pay = AVERAGE('Job Postings'[Average Pay])
+
+#### Skill Count
+Posting Count = COUNT('Job Postings'[Job Posting ID])
+
+#### Posting Count
+Posting Count = COUNT('Job Postings'[Job Posting ID])
+
+#### % Skill in Posting
+% Skill in Posting = [Skill Count] / [Posting Count]
 
 ## 📑 Report Pages
 
@@ -109,3 +125,4 @@ Values: Count Of Job Skills
 ### Skill Analysis
 ### Skill Likelihood
 ### Experience Analysis
+
