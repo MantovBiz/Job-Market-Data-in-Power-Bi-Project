@@ -26,7 +26,7 @@ Interactive Dashboards
 
 ### 🧑‍💼 Job Information
 
-Job Title Full:  The full title for the job position
+Job Title Full: The full title for the job position
 
 Job Title: The simplified title for the job position 
 
