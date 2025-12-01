@@ -149,15 +149,7 @@ Table: Job Title, Company Name, Posting Count
 
 ## 🏠 Dashboards
 
-### Home Dashboard
-
-Clickable bookmarks linking to all dashboards
-
-### Jobs Dashboard
-
-Includes visuals from Job Level Analysis & Job Titles
-
-Slicers:
+### Slicers on each dashboard
 
 Job Title
 
@@ -170,6 +162,20 @@ Company Size
 Company Industry
 
 Job Posting Date
+
+Cards:
+
+Posting Count
+
+Average Years of Experience
+
+### Home Dashboard
+
+Clickable bookmarks linking to all dashboards
+
+### Jobs Dashboard
+
+Includes visuals from Job Level Analysis & Job Titles
 
 Cards:
 
