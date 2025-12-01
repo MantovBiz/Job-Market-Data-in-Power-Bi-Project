@@ -23,7 +23,7 @@ Interactive Dashboards
 
 ## 📂 Dataset Fields
 
-Job Information
+### Job Information
 
 Job Title
 
@@ -41,7 +41,7 @@ Min Pay / Max Pay
 
 Pay Rate
 
-Job Posting Details
+### Job Posting Details
 
 Job Posting ID
 
@@ -49,11 +49,14 @@ Job Posting Date
 
 Number of Applicants
 
-## 🏢 Company Information
+### 🏢 Company Information
 
 Company Name
+
 Company Industry
+
 Company Size
+
 Job Location
 
 ## 🧹 Data Preparation (Power Query)
@@ -68,6 +71,7 @@ Column distribution
 Summary statistics
 
 ### Skill Cleaning
+
 Created a new table using only Job Posting ID and Job Skills
 Removed:
 Brackets
@@ -80,6 +84,7 @@ Standardized naming (ex: powerbi → power_bi)
 ## 📑 Report Pages
 
 ### Job Level Analysis
+
 Bar chart: Average Years of Experience by Job Position Level
 
 Timeline chart:
@@ -89,7 +94,17 @@ X-axis: Job Posting Date (Year → Quarter → Month)
 Y-axis: Job Posting ID
 
 Legend: Job Position Level
+
 ### Job Titles
+
+Treemap: Count of Job Skills by Job Title and Job Skills
+
+Category: Job Title
+
+Details: Job Skills
+
+Values: Count Of Job Skills
+
 ### Salary Analysis
 ### Skill Analysis
 ### Skill Likelihood
