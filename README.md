@@ -7,7 +7,7 @@
 ### This project analyzes job market data using Power BI, focusing on job positions, salaries, skills, experience levels, and company characteristics.
 Originally based on a DataCamp dataset, the project expands on it with extensive data cleaning, modeling, DAX calculations, and dashboard design.
 
-###The final report includes four interactive dashboards—Jobs, Skills, Company, and Home—each equipped with slicers and cross-filtering for deeper exploration.
+### The final report includes four interactive dashboards—Jobs, Skills, Company, and Home—each equipped with slicers and cross-filtering for deeper exploration.
 
 ## 🛠️ Tools Used
 
