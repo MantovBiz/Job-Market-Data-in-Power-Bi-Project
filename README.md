@@ -58,3 +58,13 @@ Extra spaces
 Split skills by delimiter into new rows
 Removed empty rows
 Standardized naming (ex: powerbi → power_bi)
+
+## 📑 Report Pages
+
+### Job Level Analysis
+
+### Job Titles
+### Salary Analysis
+### Skill Analysis
+### Skill Likelihood
+### Experience Analysis
