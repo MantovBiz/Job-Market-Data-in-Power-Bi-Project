@@ -113,29 +113,15 @@ Posting Count = COUNT('Job Postings'[Job Posting ID])
 
 Bar chart: Average Years of Experience by Job Position Level
 
-Timeline chart:
-
-X-axis: Job Posting Date (Year → Quarter → Month)
-
-Y-axis: Job Posting ID
-
-Legend: Job Position Level
+Stacked area chart: Count of JOb POsting ID by Year, Quarter, Month and Job Position Level
 
 ### Job Titles
 
 Treemap: Count of Job Skills by Job Title and Job Skills
 
-Category: Job Title
-
-Details: Job Skills (Top 20 by Skill Count)
-
-Values: Count Of Job Skills 
-
 ### Salary Analysis
 
 Line Chart: Average of Average Pay by Years of Experience and Job Title
-
-Legend: Job Title
 
 ### Skill Analysis
 
