@@ -66,20 +66,31 @@ Job Location
 Switched profiling from Top 1000 rows to Entire Dataset
 
 Reviewed:
+
 Missing values
+
 Distinct & unique values
+
 Column distribution
+
 Summary statistics
 
 ### Skill Cleaning
 
 Created a new table using only Job Posting ID and Job Skills
+
 Removed:
+
 Brackets
+
 Quotes
+
 Extra spaces
+
 Split skills by delimiter into new rows
+
 Removed empty rows
+
 Standardized naming (ex: powerbi → power_bi)
 
 ## 🧮 DAX Calculations
@@ -114,12 +125,30 @@ Treemap: Count of Job Skills by Job Title and Job Skills
 
 Category: Job Title
 
-Details: Job Skills
+Details: Job Skills (Top 20 by Skill Count)
 
-Values: Count Of Job Skills
+Values: Count Of Job Skills 
 
 ### Salary Analysis
+
+Line Chart:
+
+X-axis: Years of Experience
+
+Y-axis: Average of Average Pay
+
+Legend: Job Title
+
 ### Skill Analysis
+
+Stacked Column Chart:
+
+X-axis: Job Skills
+
+Y-axis: Count of Job Skills
+
 ### Skill Likelihood
+
+
 ### Experience Analysis
 
