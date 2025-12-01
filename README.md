@@ -20,17 +20,29 @@ Interactive Dashboards
 ## 📂 Dataset Fields
 
 Job Information
+
 Job Title
+
 Job Title Additional Info
+
 Job Position Type
+
 Job Position Level
+
 Years of Experience
+
 Job Skills
+
 Min Pay / Max Pay
+
 Pay Rate
+
 Job Posting Details
+
 Job Posting ID
+
 Job Posting Date
+
 Number of Applicants
 
 ## 🏢 Company Information
@@ -44,12 +56,14 @@ Job Location
 
 Column Profiling
 Switched profiling from Top 1000 rows to Entire Dataset
+
 Reviewed:
 Missing values
 Distinct & unique values
 Column distribution
 Summary statistics
-Skill Cleaning
+
+### Skill Cleaning
 Created a new table using only Job Posting ID and Job Skills
 Removed:
 Brackets
