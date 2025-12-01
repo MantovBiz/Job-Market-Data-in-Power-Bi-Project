@@ -12,9 +12,13 @@ The final report includes four interactive dashboards—Jobs, Skills, Company, a
 ## 🛠️ Tools Used
 
 Power BI Desktop
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Data Modeling
+
 Interactive Dashboards
 
 ## 📂 Dataset Fields
