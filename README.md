@@ -85,16 +85,12 @@ Standardized naming (ex: powerbi → power_bi)
 
 ### Measures Table
 
-#### Average of Average Pay
 Average of Average Pay = AVERAGE('Job Postings'[Average Pay])
 
-#### Skill Count
 Posting Count = COUNT('Job Postings'[Job Posting ID])
 
-#### Posting Count
 Posting Count = COUNT('Job Postings'[Job Posting ID])
 
-#### % Skill in Posting
 % Skill in Posting = [Skill Count] / [Posting Count]
 
 ## 📑 Report Pages
