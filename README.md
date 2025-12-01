@@ -62,7 +62,15 @@ Standardized naming (ex: powerbi → power_bi)
 ## 📑 Report Pages
 
 ### Job Level Analysis
+Bar chart: Average Years of Experience by Job Position Level
 
+Timeline chart:
+
+X-axis: Job Posting Date (Year → Quarter → Month)
+
+Y-axis: Job Posting ID
+
+Legend: Job Position Level
 ### Job Titles
 ### Salary Analysis
 ### Skill Analysis
